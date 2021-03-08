@@ -1,12 +1,12 @@
 # Discord-Token-Grabber
 A discord token grabber written in C++.
 
+DISCLAIMER: 
+This program should be used for educational purposes only. 
+
 ## About
 C++ 17 is used (filesystem is used in this project). It searches for tokens in Discord, Discord PTB, Discord Canary, Chrome, Opera, Brave and Yandex directories. Once
 it finds a token, it sends it to your Discord webhook.
-
-DISCLAIMER: 
-This program should be used for educational purposes only. 
 
 ## Features
 - Faster and better performance than a Python token grabber (compiled to .exe.)
